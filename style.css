@@ -1,0 +1,14 @@
+#weather-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  #weather-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  #weather-container p {
+    margin-bottom: 5px;
+  }
+  
